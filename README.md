@@ -71,7 +71,13 @@ pygame: A library used for creating games in Python.
 To install pygame, run:
 
 pip install pygame
-After installing the dependencies, you can run any of the game files like math_quiz.py, flappy.py, or snake_game.py directly from your terminal or command prompt.
+After installing the dependencies, you can run any of the game files like math_quiz.py, flappy.py, snake_game.py or game.py directly from your terminal or command prompt.
+
+5. Pong Game (game.py)
+A game similar to table tennis, where the player paddles a ball back and forth to score points by making it past the opponent's paddle
+
+✅ Features:
+Use keyboard arrows to navigate the paddle
 
 📄 Credits
 
