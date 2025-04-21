@@ -75,7 +75,7 @@ After installing the dependencies, you can run any of the game files like math_q
 
 📄 Credits
 
-Programmer: Trevon Fullwood, Niyazi Daley, Leandre cameron
+Programmer: Trevon Fullwood, Niyazi Daley, Leandre cameron, Anneisha Huggins
 Original Game Links:https://stackoverflow.com/questions/28902064/python-maths-quiz-random-number?utm_source=chatgpt.com
                     https://www.101computing.net/snakes-and-ladders-using-python/
                     https://github.com/techwithtim/Flappy-Bird
