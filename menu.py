@@ -8,7 +8,7 @@ def menu():
         print("[S] To play Snake and the ladder")
         print("[F] To play Jumping Square")
         print("[M] To play Math Quiz")
-        print("[] To play")
+        print("[P] To play Pong")
         print("[E] To Exit\n")
 
         choice = input("Enter your choice: \n").upper()
@@ -19,6 +19,8 @@ def menu():
                 flappy()
             case 'M':
                 math_quiz()
+            case 'P':
+                pong()
             case 'E':
                 print("Goodbye!")
                 break
