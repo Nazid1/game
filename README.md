@@ -63,7 +63,6 @@ Progress tracking with leaderboards.
 ▶️ How to Run:
 
 python puzzle_solver.py
-
 5. Pong Game (game.py)
 A game similar to table tennis, the player paddles a ball back and forth to score points by making it past the opponent's paddle. 
 
@@ -72,7 +71,6 @@ Use keyboard arrows to navigate the paddle
 
 ▶️How to run: 
 game.py 
-
 
 🔧 Installation Instructions
 
@@ -88,7 +86,6 @@ After installing the dependencies, you can run any of the game files like math_q
 📄 Credits
 
 Programmer: Trevon Fullwood, Niyazi Daley, Leandre cameron, Anneisha Huggins
-
 Original Game Links:https://stackoverflow.com/questions/28902064/python-maths-quiz-random-number?utm_source=chatgpt.com
                     https://www.101computing.net/snakes-and-ladders-using-python/
                     https://github.com/techwithtim/Flappy-Bird
