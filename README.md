@@ -29,6 +29,7 @@ Uses Python random, statistics, and a custom class for game logic.
 ▶️ How to Run:
 
 python math_quiz.py
+
 2. 🟦 Jumping Square (Flappy Clone) (flappy.py)
 A fun clone of the classic Flappy Bird game where you control a square character that must avoid pipes. The game records your score and displays your high scores with statistical analysis at the end.
 
@@ -41,6 +42,7 @@ High score saving to a file (scores.txt).
 ▶️ How to Run:
 
 python flappy.py
+
 3. 🐍 Snake Game (snake_game.py)
 A classic Snake game where the player controls a snake, trying to eat food and grow longer without colliding with the walls or itself.
 
@@ -52,6 +54,7 @@ Score tracking for how many pieces of food have been eaten.
 ▶️ How to Run:
 
 python snake_game.py
+
 4. 🧩 Puzzle Solver (puzzle_solver.py)
 A logic-based puzzle game where players must arrange pieces of a puzzle within a time limit to win.
 
@@ -63,6 +66,7 @@ Progress tracking with leaderboards.
 ▶️ How to Run:
 
 python puzzle_solver.py
+
 5. Pong Game (game.py)
 A game similar to table tennis, the player paddles a ball back and forth to score points by making it past the opponent's paddle. 
 
